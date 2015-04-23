@@ -10,6 +10,7 @@ but it should keep the same with the follow when you use it.
     var c = new ColorBox($(".color_bo"));
     c.initBox();
 now you have the panel on your website<br>
+[demo](http://harveyprince.github.io/ColorBox/doc/html/color_box.html)
 ## 取指方法[the method to get value]
 you can use `c.value` to get the value.it's a decimal number<br>
 if you want to get the hexadecimal value like `#FFFFFF`<br>

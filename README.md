@@ -4,7 +4,7 @@ create a panel to select the color you want.取色器.based on js,jquery.
 ## 初始化[init]
 #### html part<br>
     <div class="color_bo"></div>
-actually, the `color_box` can change to any string you like.<br>
+actually, the `color_bo` can change to any string you like.<br>
 but it should keep the same with the follow when you use it.
 #### js part<br>
     var c = new ColorBox($(".color_bo"));
